@@ -1,18 +1,10 @@
-## ✦ hexaDIVA ✦
-hi hello, and welcome to my page!!!
+## ✦ hexaDIVA 
 
 **. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.**
 
-### ⋅˚₊‧ ୨ about me ୧ ‧₊˚ ⋅
-**✎ name:** jules or jude
+**✎ programming languages:** Python, Julia, C++ (eventually)
 
-**✎ pronouns:** any pronouns, they/them preferred
-
-**✎ programming languages:** python, slowly learning C++
-
-**✎ special interest:** cybersecurity
-
-### ⋅˚₊‧ ୨ my project categories ୧ ‧₊˚ ⋅
+**. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.**
 
 **˗ˏˋ** anything networks related
 
